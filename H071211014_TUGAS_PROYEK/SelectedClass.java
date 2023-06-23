@@ -1,0 +1,3 @@
+interface SelectedClass {
+    void selectedClass();
+}
